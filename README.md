@@ -1,5 +1,5 @@
 # Photo Portfolio
-Kratki opis (1-2 recenice) o cemu je web.
+Web je napravljen da promovira moje fotografske vještine i omogući kontakt sa ljudima koji su zainteresirani.
 ## Stranice
 - index.html - Naslovnica.
 - projekti.html - Prikaz fotografija. Funkcionira više kao galerija.
